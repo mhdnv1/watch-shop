@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "id": 3,
+      "image": "https://softech.kg/image/cache/b28ca1935ef6b89c191f92a6a1fe2d27.png",
+      "title": "Apple TV",
+      "memory": "1000",
+      "price": "500"
+    },
+    {
+      "id": 4,
+      "image": "https://softech.kg/image/cache/18f4fe11bd43e505c1da19a9054f5792.jpg",
+      "title": "Iphone 14 pro max",
+      "memory": "1000",
+      "price": "1500"
+    },
+    {
+      "title": "iphone X",
+      "price": "300",
+      "memory": "128",
+      "image": "http://elmobile.kg/wp-content/uploads/2021/03/images.jpg",
+      "id": 5
+    },
+    {
+      "title": "iphone 11",
+      "price": "440",
+      "memory": "128",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone_11-rosette-family-lineup-091019_big.jpg.large.jpg",
+      "id": 6
+    }
+  ]
+}
